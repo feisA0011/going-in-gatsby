@@ -1,0 +1,12 @@
+.page {
+  background: blue;
+}
+
+.page h1 {
+  color: white;
+}
+
+.text {
+  text-transform: capitalize;
+  color: white;
+}
